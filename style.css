@@ -1,0 +1,23 @@
+.main1{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.555);
+}
+.main2{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.555);
+}
+.main3{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.555);
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: rgba(67, 74, 163, 0.767);
+    font-size: 200px;
+}
