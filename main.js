@@ -1,5 +1,5 @@
 gsap.to(".main2 h1",{
-  x:"150",
+  transform:translateX"200",
     scrollTrigger:{
         trigger:".main2",
         scroller:"body",
