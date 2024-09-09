@@ -1,12 +1,13 @@
 gsap.to(".main2 h1",{
-    width:"100%",
+    Translate:"100",
     scrollTrigger:{
-        trigger:".main m2",
+        trigger:".main2",
         scroller:"body",
         marker:true,
-        start:"top 0",
-        end:"top -100",
-        scrub:2,
+        // translate:"100",
+        start:"top 10",
+        end:"top 100",
+        scrub:8,
         pin:true,
 
     }
